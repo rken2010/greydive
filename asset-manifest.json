@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/greydive/static/css/main.0555810b.css",
-    "main.js": "/greydive/static/js/main.ca47f664.js",
+    "main.js": "/greydive/static/js/main.3f10dd60.js",
     "static/js/787.af8518ad.chunk.js": "/greydive/static/js/787.af8518ad.chunk.js",
     "index.html": "/greydive/index.html",
     "main.0555810b.css.map": "/greydive/static/css/main.0555810b.css.map",
-    "main.ca47f664.js.map": "/greydive/static/js/main.ca47f664.js.map",
+    "main.3f10dd60.js.map": "/greydive/static/js/main.3f10dd60.js.map",
     "787.af8518ad.chunk.js.map": "/greydive/static/js/787.af8518ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0555810b.css",
-    "static/js/main.ca47f664.js"
+    "static/js/main.3f10dd60.js"
   ]
 }
