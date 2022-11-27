@@ -12,12 +12,13 @@ function App() {
     <ChakraProvider theme={theme}>
       <Stack  bg='background' color='text' align={'center'}>
       <Header />
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={ <CardContainer/> } />
-          <Route path="/details/:cliente" element={ <CardDetailsContainer/> } />
-        </Routes>
-      </BrowserRouter>
+        <BrowserRouter>
+          <Routes>
+            <Route path='/' element={ <CardContainer/> } />
+            <Route path="/greydive" element={ <CardContainer/> } />
+            <Route path="/details/:cliente" element={ <CardDetailsContainer/> } />
+          </Routes>
+        </BrowserRouter>
       </Stack>
     </ChakraProvider>
   );
