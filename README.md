@@ -1,4 +1,4 @@
-# Desafio GReyDive
+# Desafio GreyDive
 
 Este es el diseño de una Web dinámica hecha con React JS
 
